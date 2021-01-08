@@ -9,7 +9,7 @@ Clone the repository into a folder
 
 Install NodeJS from this [LINK](https://nodejs.org/en/)
 
-Navigate to `exercise` folder
+
 
 Open Terminal
 
@@ -28,10 +28,10 @@ Create `app.js` file
       Rest API
     Database
       JSON
-  API Endpoints
+# API Endpoints
     Get List of Blog Posts
       “api/posts”
     Get individual Blog
       “api/posts/:post_id”
-  Post Blog Post
-  “api/posts”
+    Post Blog Post
+      “api/posts”
